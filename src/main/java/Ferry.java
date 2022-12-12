@@ -14,6 +14,10 @@ public class Ferry extends Ship {
             this.FerryNumber = FerryNumber;
             this.mailingList = mailingList;
         }
-
+        public static void main(String[] args) {
+            Ship Sandrius = new ie.atu.XmasExam.Ship();
+            Sandrius.setName("Elizabeth");
+            Sandrius.setBuild("2003");
+            Sandrius.setCrew("196");
     }
 }

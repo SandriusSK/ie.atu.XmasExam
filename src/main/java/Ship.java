@@ -1,4 +1,3 @@
-package ie.atu.XmasExam;
 
 public class Ship {
 
